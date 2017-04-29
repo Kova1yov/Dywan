@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.image.*;
 import java.awt.event.*;
 import javax.swing.*;
-
+//hgjjkkkf
         class FractalExplorer extends JFrame {
         	static final int WIDTH  = 600;
 	 		static final int HEIGHT = 600;
